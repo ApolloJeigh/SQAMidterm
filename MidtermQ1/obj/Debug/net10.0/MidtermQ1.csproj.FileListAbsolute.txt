@@ -1,0 +1,14 @@
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\bin\Debug\net10.0\MidtermQ1.exe
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\bin\Debug\net10.0\MidtermQ1.deps.json
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\bin\Debug\net10.0\MidtermQ1.runtimeconfig.json
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\bin\Debug\net10.0\MidtermQ1.dll
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\bin\Debug\net10.0\MidtermQ1.pdb
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\MidtermQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\MidtermQ1.AssemblyInfoInputs.cache
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\MidtermQ1.AssemblyInfo.cs
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\MidtermQ1.csproj.CoreCompileInputs.cache
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\MidtermQ1.dll
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\refint\MidtermQ1.dll
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\MidtermQ1.pdb
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\MidtermQ1.genruntimeconfig.cache
+C:\PROG2070-QA\MidtermQ1\MidtermQ1\obj\Debug\net10.0\ref\MidtermQ1.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TuHrhg8HIgY=",
+  "success": true,
+  "projectFilePath": "C:\\PROG2070-QA\\MidtermQ1\\MidtermQ1\\MidtermQ1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camhe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
