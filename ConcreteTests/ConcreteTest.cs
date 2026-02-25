@@ -9,7 +9,7 @@ namespace ConcreteTests
 {
     public class ConcreteTest
     {
-
+        //New Residential Test
         [Test]
         public void CalculateCost_NewResidential1SquareMeter_Returns20()
         {
@@ -23,6 +23,7 @@ namespace ConcreteTests
             Assert.That(actual, Is.EqualTo(expected));
         }
 
+        //Existing Residential Test
         [Test]
         public void CalculateCost_ExistingResidential1SquareMeter_Returns15()
         {
@@ -36,6 +37,7 @@ namespace ConcreteTests
             Assert.That(actual, Is.EqualTo(expected));
         }
 
+        //Commercial Test
         [Test]
         public void CalculateCost_Commercial1SquareMeter_Returns10()
         {
@@ -49,6 +51,7 @@ namespace ConcreteTests
             Assert.That(actual, Is.EqualTo(expected));
         }
 
+        //Upper Boundary Test (10 sqm)
         [Test]
         public void CalculateCost_Commericial10SquareMeters_Return100()
         {
@@ -62,6 +65,7 @@ namespace ConcreteTests
             Assert.That(actual, Is.EqualTo(expected));
         }
 
+        //Above Upper Boundary Test (11 sqm)
         [Test]
         public void CalculateCost_Commericial11SquareMeters_ReturnNegative2()
         {
